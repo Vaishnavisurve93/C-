@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\ClassLibrary\ArithmeticLibrary.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_ArithmeticLibrary.Test
+C:\Users\Hp\source\repos\ClassLibrary\ArithmeticLibrary.Test\obj\Debug\net8.0\ArithmeticLibrary.Test.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ClassLibrary\ArithmeticLibrary.Test\obj\Debug\net8.0\ArithmeticLibrary.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ClassLibrary\ArithmeticLibrary.Test\obj\Debug\net8.0\ArithmeticLibrary.Test.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ClassLibrary\ArithmeticLibrary.Test\obj\Debug\net8.0\ArithmeticLibrary.Test.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ClassLibrary\ArithmeticLibrary.Test\obj\Debug\net8.0\ArithmeticLibrary.Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Reflect\Reflect\obj\Debug\Reflect.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Reflect\Reflect\obj\Debug\Reflect.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Reflect\Reflect\bin\Debug\Reflect.exe.config
+C:\Users\Hp\source\repos\Reflect\Reflect\bin\Debug\Reflect.exe
+C:\Users\Hp\source\repos\Reflect\Reflect\bin\Debug\Reflect.pdb
+C:\Users\Hp\source\repos\Reflect\Reflect\obj\Debug\Reflect.exe
+C:\Users\Hp\source\repos\Reflect\Reflect\obj\Debug\Reflect.pdb

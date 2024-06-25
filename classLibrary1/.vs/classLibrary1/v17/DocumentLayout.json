@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\classLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B0EB2B-EB40-457D-85BF-63AFE65BDDF8}|ArithmeticLibrary.Tests\\ArithmeticLibrary.Tests.csproj|c:\\users\\hp\\source\\repos\\classlibrary1\\arithmeticlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B0EB2B-EB40-457D-85BF-63AFE65BDDF8}|ArithmeticLibrary.Tests\\ArithmeticLibrary.Tests.csproj|solutionrelative:arithmeticlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F9D4D-2F9D-47BA-BB27-68EEF8EA6AC0}|classLibrary1\\classLibrary1.csproj|c:\\users\\hp\\source\\repos\\classlibrary1\\classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F9D4D-2F9D-47BA-BB27-68EEF8EA6AC0}|classLibrary1\\classLibrary1.csproj|solutionrelative:classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\classLibrary1\\ArithmeticLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ArithmeticLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\classLibrary1\\ArithmeticLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ArithmeticLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:58:41.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\classLibrary1\\classLibrary1\\Program.cs",
+              "RelativeDocumentMoniker": "classLibrary1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\classLibrary1\\classLibrary1\\Program.cs*",
+              "RelativeToolTip": "classLibrary1\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:57:28.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

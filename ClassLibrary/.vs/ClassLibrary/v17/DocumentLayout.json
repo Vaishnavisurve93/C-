@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B00D47AD-D41F-429E-A367-B4ECD4EDFF7B}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\hp\\source\\repos\\classlibrary\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B00D47AD-D41F-429E-A367-B4ECD4EDFF7B}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00D47AD-D41F-429E-A367-B4ECD4EDFF7B}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\hp\\source\\repos\\classlibrary\\classlibrary\\arithmeticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00D47AD-D41F-429E-A367-B4ECD4EDFF7B}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\arithmeticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D404A26-0E21-49C0-89E3-396C1D3DE390}|ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj|c:\\users\\hp\\source\\repos\\classlibrary\\arithmeticlibrary.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D404A26-0E21-49C0-89E3-396C1D3DE390}|ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj|solutionrelative:arithmeticlibrary.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D404A26-0E21-49C0-89E3-396C1D3DE390}|ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj|c:\\users\\hp\\source\\repos\\classlibrary\\arithmeticlibrary.test\\arithmeticlibrary.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D404A26-0E21-49C0-89E3-396C1D3DE390}|ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj|solutionrelative:arithmeticlibrary.test\\arithmeticlibrary.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassLibrary",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T10:16:47.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArithmeticLibrary.Test",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj",
+              "RelativeDocumentMoniker": "ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj",
+              "RelativeToolTip": "ArithmeticLibrary.Test\\ArithmeticLibrary.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T10:09:09.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ArithmeticLibrary.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ArithmeticLibrary.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ArithmeticLibrary.Test\\UnitTest1.cs*",
+              "RelativeToolTip": "ArithmeticLibrary.Test\\UnitTest1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:08:52.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArithmeticOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ClassLibrary\\ArithmeticOperation.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\ArithmeticOperation.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ClassLibrary\\ClassLibrary\\ArithmeticOperation.cs",
+              "RelativeToolTip": "ClassLibrary\\ArithmeticOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:06:00.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

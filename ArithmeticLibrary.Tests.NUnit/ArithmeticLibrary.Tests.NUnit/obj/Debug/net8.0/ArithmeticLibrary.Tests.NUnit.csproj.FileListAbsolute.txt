@@ -1,0 +1,5 @@
+C:\Users\Hp\source\repos\ArithmeticLibrary.Tests.NUnit\ArithmeticLibrary.Tests.NUnit\obj\Debug\net8.0\ArithmeticLibrary.Tests.NUnit.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ArithmeticLibrary.Tests.NUnit\ArithmeticLibrary.Tests.NUnit\obj\Debug\net8.0\ArithmeticLibrary.Tests.NUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ArithmeticLibrary.Tests.NUnit\ArithmeticLibrary.Tests.NUnit\obj\Debug\net8.0\ArithmeticLibrary.Tests.NUnit.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ArithmeticLibrary.Tests.NUnit\ArithmeticLibrary.Tests.NUnit\obj\Debug\net8.0\ArithmeticLibrary.Tests.NUnit.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ArithmeticLibrary.Tests.NUnit\ArithmeticLibrary.Tests.NUnit\obj\Debug\net8.0\ArithmeticLibrary.Tests.NUnit.csproj.CoreCompileInputs.cache

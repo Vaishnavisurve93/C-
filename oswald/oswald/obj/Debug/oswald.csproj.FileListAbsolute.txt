@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\oswald\oswald\obj\Debug\oswald.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\oswald\oswald\obj\Debug\oswald.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\oswald\oswald\bin\Debug\oswald.exe.config
+C:\Users\Hp\source\repos\oswald\oswald\bin\Debug\oswald.exe
+C:\Users\Hp\source\repos\oswald\oswald\bin\Debug\oswald.pdb
+C:\Users\Hp\source\repos\oswald\oswald\obj\Debug\oswald.exe
+C:\Users\Hp\source\repos\oswald\oswald\obj\Debug\oswald.pdb

@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\BlogPostSystem\BlogPostSystem\obj\Debug\BlogPostSystem.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\BlogPostSystem\BlogPostSystem\obj\Debug\BlogPostSystem.csproj.CoreCompileInputs.cache

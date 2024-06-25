@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ArrayElementAddition\ArrayElementAddition\obj\Debug\ArrayElementAddition.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ArrayElementAddition\ArrayElementAddition\obj\Debug\ArrayElementAddition.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ArrayElementAddition\ArrayElementAddition\bin\Debug\ArrayElementAddition.exe.config
+C:\Users\Hp\source\repos\ArrayElementAddition\ArrayElementAddition\bin\Debug\ArrayElementAddition.exe
+C:\Users\Hp\source\repos\ArrayElementAddition\ArrayElementAddition\bin\Debug\ArrayElementAddition.pdb
+C:\Users\Hp\source\repos\ArrayElementAddition\ArrayElementAddition\obj\Debug\ArrayElementAddition.exe
+C:\Users\Hp\source\repos\ArrayElementAddition\ArrayElementAddition\obj\Debug\ArrayElementAddition.pdb

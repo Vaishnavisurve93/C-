@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Helloyellow\Helloyellow\bin\Debug\Helloyellow.exe.config
+C:\Users\Hp\source\repos\Helloyellow\Helloyellow\bin\Debug\Helloyellow.exe
+C:\Users\Hp\source\repos\Helloyellow\Helloyellow\bin\Debug\Helloyellow.pdb
+C:\Users\Hp\source\repos\Helloyellow\Helloyellow\obj\Debug\Helloyellow.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Helloyellow\Helloyellow\obj\Debug\Helloyellow.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Helloyellow\Helloyellow\obj\Debug\Helloyellow.exe
+C:\Users\Hp\source\repos\Helloyellow\Helloyellow\obj\Debug\Helloyellow.pdb

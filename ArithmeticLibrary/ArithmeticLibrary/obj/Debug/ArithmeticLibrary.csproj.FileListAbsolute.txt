@@ -1,0 +1,2 @@
+C:\Users\Hp\source\repos\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\ArithmeticLibrary.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ArithmeticLibrary\ArithmeticLibrary\obj\Debug\ArithmeticLibrary.csproj.CoreCompileInputs.cache

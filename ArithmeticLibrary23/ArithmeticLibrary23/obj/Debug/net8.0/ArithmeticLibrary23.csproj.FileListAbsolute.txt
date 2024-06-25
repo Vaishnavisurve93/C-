@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\bin\Debug\net8.0\ArithmeticLibrary23.exe
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\bin\Debug\net8.0\ArithmeticLibrary23.deps.json
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\bin\Debug\net8.0\ArithmeticLibrary23.runtimeconfig.json
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\bin\Debug\net8.0\ArithmeticLibrary23.dll
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\bin\Debug\net8.0\ArithmeticLibrary23.pdb
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ArithmeticLibrary23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ArithmeticLibrary23.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ArithmeticLibrary23.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ArithmeticLibrary23.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ArithmeticLibrary23.dll
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\refint\ArithmeticLibrary23.dll
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ArithmeticLibrary23.pdb
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ArithmeticLibrary23.genruntimeconfig.cache
+C:\Users\Hp\source\repos\ArithmeticLibrary23\ArithmeticLibrary23\obj\Debug\net8.0\ref\ArithmeticLibrary23.dll

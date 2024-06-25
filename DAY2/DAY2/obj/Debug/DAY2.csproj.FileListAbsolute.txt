@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\DAY2\DAY2\bin\Debug\DAY2.exe.config
+C:\Users\Hp\source\repos\DAY2\DAY2\bin\Debug\DAY2.exe
+C:\Users\Hp\source\repos\DAY2\DAY2\bin\Debug\DAY2.pdb
+C:\Users\Hp\source\repos\DAY2\DAY2\obj\Debug\DAY2.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\DAY2\DAY2\obj\Debug\DAY2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DAY2\DAY2\obj\Debug\DAY2.exe
+C:\Users\Hp\source\repos\DAY2\DAY2\obj\Debug\DAY2.pdb

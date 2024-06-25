@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\oswald\account\obj\Debug\account.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\oswald\account\obj\Debug\account.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\oswald\account\bin\Debug\account.exe.config
+C:\Users\Hp\source\repos\oswald\account\bin\Debug\account.exe
+C:\Users\Hp\source\repos\oswald\account\bin\Debug\account.pdb
+C:\Users\Hp\source\repos\oswald\account\obj\Debug\account.exe
+C:\Users\Hp\source\repos\oswald\account\obj\Debug\account.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\June24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B53BD-2C8C-4AC0-ABE8-CF69F50A7FF9}|June24\\BloggingSystem.csproj|c:\\users\\hp\\source\\repos\\june24\\june24\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B53BD-2C8C-4AC0-ABE8-CF69F50A7FF9}|June24\\BloggingSystem.csproj|solutionrelative:june24\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0B53BD-2C8C-4AC0-ABE8-CF69F50A7FF9}|June24\\BloggingSystem.csproj|c:\\users\\hp\\source\\repos\\june24\\june24\\model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0B53BD-2C8C-4AC0-ABE8-CF69F50A7FF9}|June24\\BloggingSystem.csproj|solutionrelative:june24\\model\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\June24\\June24\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "June24\\Model\\Post.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\June24\\June24\\Model\\Post.cs",
+              "RelativeToolTip": "June24\\Model\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:23:25.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\June24\\June24\\Model\\Blog.cs",
+              "RelativeDocumentMoniker": "June24\\Model\\Blog.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\June24\\June24\\Model\\Blog.cs",
+              "RelativeToolTip": "June24\\Model\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:23:15.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

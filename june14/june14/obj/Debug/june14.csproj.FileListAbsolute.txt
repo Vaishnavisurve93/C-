@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\june14\june14\bin\Debug\june14.exe.config
+C:\Users\Hp\source\repos\june14\june14\bin\Debug\june14.exe
+C:\Users\Hp\source\repos\june14\june14\bin\Debug\june14.pdb
+C:\Users\Hp\source\repos\june14\june14\obj\Debug\june14.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\june14\june14\obj\Debug\june14.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\june14\june14\obj\Debug\june14.exe
+C:\Users\Hp\source\repos\june14\june14\obj\Debug\june14.pdb

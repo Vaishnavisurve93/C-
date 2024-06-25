@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.dll
+C:\Users\Hp\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.pdb
+C:\Users\Hp\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.dll
+C:\Users\Hp\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.pdb

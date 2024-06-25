@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\SwapElement\SwapElement\bin\Debug\SwapElement.exe.config
+C:\Users\Hp\source\repos\SwapElement\SwapElement\bin\Debug\SwapElement.exe
+C:\Users\Hp\source\repos\SwapElement\SwapElement\bin\Debug\SwapElement.pdb
+C:\Users\Hp\source\repos\SwapElement\SwapElement\obj\Debug\SwapElement.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\SwapElement\SwapElement\obj\Debug\SwapElement.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SwapElement\SwapElement\obj\Debug\SwapElement.exe
+C:\Users\Hp\source\repos\SwapElement\SwapElement\obj\Debug\SwapElement.pdb

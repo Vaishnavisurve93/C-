@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\NonRepeatingElements\NonRepeatingElements\bin\Debug\NonRepeatingElements.exe.config
+C:\Users\Hp\source\repos\NonRepeatingElements\NonRepeatingElements\bin\Debug\NonRepeatingElements.exe
+C:\Users\Hp\source\repos\NonRepeatingElements\NonRepeatingElements\bin\Debug\NonRepeatingElements.pdb
+C:\Users\Hp\source\repos\NonRepeatingElements\NonRepeatingElements\obj\Debug\NonRepeatingElements.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NonRepeatingElements\NonRepeatingElements\obj\Debug\NonRepeatingElements.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NonRepeatingElements\NonRepeatingElements\obj\Debug\NonRepeatingElements.exe
+C:\Users\Hp\source\repos\NonRepeatingElements\NonRepeatingElements\obj\Debug\NonRepeatingElements.pdb

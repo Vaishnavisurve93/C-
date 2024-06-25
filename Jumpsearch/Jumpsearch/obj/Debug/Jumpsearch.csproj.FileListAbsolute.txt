@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Jumpsearch\Jumpsearch\bin\Debug\Jumpsearch.exe.config
+C:\Users\Hp\source\repos\Jumpsearch\Jumpsearch\bin\Debug\Jumpsearch.exe
+C:\Users\Hp\source\repos\Jumpsearch\Jumpsearch\bin\Debug\Jumpsearch.pdb
+C:\Users\Hp\source\repos\Jumpsearch\Jumpsearch\obj\Debug\Jumpsearch.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Jumpsearch\Jumpsearch\obj\Debug\Jumpsearch.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Jumpsearch\Jumpsearch\obj\Debug\Jumpsearch.exe
+C:\Users\Hp\source\repos\Jumpsearch\Jumpsearch\obj\Debug\Jumpsearch.pdb

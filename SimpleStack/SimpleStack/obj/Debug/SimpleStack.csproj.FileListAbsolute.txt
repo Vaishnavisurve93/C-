@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\SimpleStack\SimpleStack\bin\Debug\SimpleStack.exe.config
+C:\Users\Hp\source\repos\SimpleStack\SimpleStack\bin\Debug\SimpleStack.exe
+C:\Users\Hp\source\repos\SimpleStack\SimpleStack\bin\Debug\SimpleStack.pdb
+C:\Users\Hp\source\repos\SimpleStack\SimpleStack\obj\Debug\SimpleStack.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\SimpleStack\SimpleStack\obj\Debug\SimpleStack.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\SimpleStack\SimpleStack\obj\Debug\SimpleStack.exe
+C:\Users\Hp\source\repos\SimpleStack\SimpleStack\obj\Debug\SimpleStack.pdb

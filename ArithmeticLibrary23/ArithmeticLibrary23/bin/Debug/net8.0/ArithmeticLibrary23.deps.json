@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArithmeticLibrary23/1.0.0": {
+        "runtime": {
+          "ArithmeticLibrary23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArithmeticLibrary23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

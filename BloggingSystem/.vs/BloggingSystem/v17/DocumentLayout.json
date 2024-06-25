@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\BloggingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DB7F94-97B4-4412-948E-EC646D197AB9}|BloggingSystem\\BloggingSystem.csproj|c:\\users\\hp\\source\\repos\\bloggingsystem\\bloggingsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DB7F94-97B4-4412-948E-EC646D197AB9}|BloggingSystem\\BloggingSystem.csproj|solutionrelative:bloggingsystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DB7F94-97B4-4412-948E-EC646D197AB9}|BloggingSystem\\BloggingSystem.csproj|c:\\users\\hp\\source\\repos\\bloggingsystem\\bloggingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DB7F94-97B4-4412-948E-EC646D197AB9}|BloggingSystem\\BloggingSystem.csproj|solutionrelative:bloggingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\BloggingSystem\\BloggingSystem\\Global.asax.cs",
+              "RelativeDocumentMoniker": "BloggingSystem\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\BloggingSystem\\BloggingSystem\\Global.asax.cs*",
+              "RelativeToolTip": "BloggingSystem\\Global.asax.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:44:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\BloggingSystem\\BloggingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BloggingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\BloggingSystem\\BloggingSystem\\Program.cs",
+              "RelativeToolTip": "BloggingSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:27:40.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

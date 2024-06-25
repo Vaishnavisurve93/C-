@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Selectionsort\Selectionsort\bin\Debug\Selectionsort.exe.config
+C:\Users\Hp\source\repos\Selectionsort\Selectionsort\bin\Debug\Selectionsort.exe
+C:\Users\Hp\source\repos\Selectionsort\Selectionsort\bin\Debug\Selectionsort.pdb
+C:\Users\Hp\source\repos\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Selectionsort\Selectionsort\obj\Debug\Selectionsort.exe
+C:\Users\Hp\source\repos\Selectionsort\Selectionsort\obj\Debug\Selectionsort.pdb
